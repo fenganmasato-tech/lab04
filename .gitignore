@@ -1,0 +1,5 @@
+#Private files never track there
+secret.txt
+
+#operating system junk
+Thumbs.db
