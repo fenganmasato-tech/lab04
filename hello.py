@@ -1,2 +1,2 @@
-print("Hello, version control")
+print("Hi my nsme is masato")
 print("Git is tracking this file")
